@@ -48,6 +48,8 @@ The following steps were carried out in completing the project:
 
 ![image](https://github.com/kenny-ano/Microsoft-Excel-Project/blob/main/cleaned%20excel%20dataset.png)
 
+---
+
 ## Dataset Source
 
 The dataset used for this project can be accessed via the link below:
