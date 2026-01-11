@@ -1,7 +1,5 @@
 # Microsoft Excel Data Analytics Project
 
-## Author
-**Adeyemi Adeshola Kehinde**
 
 ---
 
@@ -46,14 +44,10 @@ The following steps were carried out in completing the project:
 
 ---
 
-![image](https://docs.google.com/spreadsheets/d/16sCu4FAlU2md1x2V-AKV_xBn8VL5WUko/edit)
 
+## Dataset 
 
----
-
-## Dataset Source
-
-The dataset used for this project can be accessed via the link below:
+The cleaned dataset can be accessed via
 
 https://docs.google.com/spreadsheets/d/16sCu4FAlU2md1x2V-AKV_xBn8VL5WUko/edit
 
