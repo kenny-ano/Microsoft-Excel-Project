@@ -46,7 +46,8 @@ The following steps were carried out in completing the project:
 
 ---
 
-![image](https://github.com/kenny-ano/Microsoft-Excel-Project/blob/main/cleaned%20excel%20dataset.png)
+![image](https://docs.google.com/spreadsheets/d/16sCu4FAlU2md1x2V-AKV_xBn8VL5WUko/edit)
+
 
 ---
 
